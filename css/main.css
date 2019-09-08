@@ -19,9 +19,10 @@ body {
   overflow: hidden;
 
 
+
 }
 .topnav a{
-  float: left;
+  float: center;
   font-size: 21px;
   text-align: center;
   text-decoration: none;
