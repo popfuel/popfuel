@@ -1,3 +1,16 @@
-body{
-  background-color: #BBBBBB;
+
+h1 {
+    color: blue;
+    font-size: 44px;
+    text-align: center;
+    font-family: "Arial";
+    font-weight: 300;
+    border: solid 5px #dddd;
+
+
+}
+
+body {
+  background-color: pink;
+
 }
