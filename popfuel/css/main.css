@@ -36,3 +36,14 @@ body {
   background-color: pink;
   color: white;
 }
+
+footer {
+  background: pink;
+  padding: 10px 100%;
+  position: fixed;
+
+
+  text-align: center;
+  bottom: 0;
+
+}
