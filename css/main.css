@@ -24,9 +24,10 @@ body {
   overflow: hidden;
 
 
+
 }
 .topnav a{
-  float: left;
+  float: center;
   font-size: 21px;
   text-align: center;
   text-decoration: none;
@@ -38,4 +39,17 @@ body {
 }
 .topnav a.active {
   border-bottom: 2px solid pink;
+}
+
+footer {
+  background: pink;
+  padding: 10px 100%;
+  position:absolute;
+
+
+  text-align: center;
+  bottom: 0;
+  left:0;
+  right: 0;
+
 }
