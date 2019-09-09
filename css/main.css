@@ -35,15 +35,20 @@ body {
   color: grey;
 }
 .topnav a:hover{
-  border-bottom: 2px solid pink;
+  border-bottom-style: solid;
+  border-bottom-width: 4px;
+  border-bottom-color: pink;
 }
 .topnav a.active {
-  border-bottom: 2px solid pink;
+  border-bottom-style: solid;
+  border-bottom-width: 4px;
+  border-bottom-color: pink;
+
 }
 
 footer {
   background: pink;
-  padding: 10px 100%;
+  padding: 1px 100%;
   position:absolute;
 
 
