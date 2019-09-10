@@ -5,10 +5,6 @@ h1 {
     text-align: left;
     font-family: "Arial";
     font-weight: 300;
-    border-bottom-style: solid;
-    border-bottom-color: pink;
-    border-bottom-width: thin;
-    padding-bottom: 5px;
 
 
 
@@ -22,6 +18,14 @@ body {
 
 .topnav {
   overflow: hidden;
+  border-bottom-width:thin;
+  border-bottom-style: solid;
+  border-bottom-color: pink;
+  padding-bottom: 15px;
+  border-top-style: solid;
+  border-top-color: pink;
+  border-top-width: thin;
+  padding-top: 15px;
 
 
 
@@ -33,26 +37,30 @@ body {
   text-decoration: none;
   padding: 9px 32px;
   color: grey;
+
 }
 .topnav a:hover{
   border-bottom-style: solid;
-  border-bottom-width: 4px;
+  border-bottom-width: 2px;
   border-bottom-color: pink;
+  padding-bottom: 5px;
 }
 .topnav a.active {
   border-bottom-style: solid;
-  border-bottom-width: 4px;
+  border-bottom-width: 2px;
   border-bottom-color: pink;
-
+  padding-bottom: 5px;
 }
 
 footer {
   background: pink;
-  padding: 1px 100%;
+  background-repeat:repeat;
+  padding: 1px 10%;
   position:absolute;
 
 
   text-align: center;
+  padding-top: 1px;
   bottom: 0;
   left:0;
   right: 0;
