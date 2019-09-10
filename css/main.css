@@ -21,12 +21,13 @@ body {
   border-bottom-width:thin;
   border-bottom-style: solid;
   border-bottom-color: pink;
-  padding-bottom: 15px;
+  padding-bottom: 10px;
   border-top-style: solid;
   border-top-color: pink;
   border-top-width: thin;
-  padding-top: 15px;
-  justify-content:space-around;
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-around;
 
 
 
