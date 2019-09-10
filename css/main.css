@@ -26,6 +26,7 @@ body {
   border-top-color: pink;
   border-top-width: thin;
   padding-top: 15px;
+  justify-content:space-around;
 
 
 
@@ -37,6 +38,7 @@ body {
   text-decoration: none;
   padding: 9px 32px;
   color: grey;
+  margin: 0px auto;
 
 }
 .topnav a:hover{
